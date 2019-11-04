@@ -1,4 +1,4 @@
-# Laravel PostGIS
+# Laravel PostGIS.
 This package implemented for calculate or check the distance between point and other database points.
 
 ## Installation
